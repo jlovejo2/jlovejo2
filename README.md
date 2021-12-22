@@ -1,10 +1,10 @@
 ### JAMES LOVEJOY
 
 <!-- This covers all my generic github stats -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlovejo2&show_icons=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlovejo2&show_icons=true&theme=dark&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Covers my lanuage usage -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlovejo2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlovejo2&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
