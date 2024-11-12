@@ -9,12 +9,12 @@
 
 ### 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)   
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlovejo2)](https://github.com/anuraghazra/github-readme-stats)   
 
 
 ### 🏆 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlovejo2)](https://github.com/anuraghazra/github-readme-stats)   
 
 
 <!--
