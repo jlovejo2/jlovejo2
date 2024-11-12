@@ -7,6 +7,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlovejo2&show_icons=true&theme=dark&text_color=00D100)](https://github.com/jlovejo2)
 
 
+### 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)   
+
+
+### 🏆 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)   
+
+
 <!--
 **jlovejo2/jlovejo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
